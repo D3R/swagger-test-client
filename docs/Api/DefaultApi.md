@@ -1,10 +1,10 @@
 # Swagger\Client\DefaultApi
 
-All URIs are relative to *http://virtserver.swaggerhub.com/D3R/ServerNames/1.0.0*
+All URIs are relative to *https://virtserver.swaggerhub.com/D3R/ServerNames/1.0.0*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**createName**](DefaultApi.md#createName) | **GET** /get | Creates a new server name
+[**createName**](DefaultApi.md#createName) | **GET** /generate | Creates a new server name
 
 
 # **createName**
